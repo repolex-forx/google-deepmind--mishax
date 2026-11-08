@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "mishax",
+  "versions": [
+    {
+      "commit": "1547dfc2caf37f5e006876363d2a0da83dc5f4c0",
+      "tag": "",
+      "parsed_at": "2026-11-08T09:21:18.725256+00:00"
+    }
+  ]
+}
