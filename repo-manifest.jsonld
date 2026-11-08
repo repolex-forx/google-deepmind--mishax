@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/mishax/commit/1547dfc2caf37f5e006876363d2a0da83dc5f4c0",
       "git:hexsha": "1547dfc2caf37f5e006876363d2a0da83dc5f4c0",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T09:21:18.716488+00:00"
     }
   ]
 }
